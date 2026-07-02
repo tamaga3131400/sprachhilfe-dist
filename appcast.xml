@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Sprachhilfe Updates</title>
+    <language>de</language>
+    <description>Updates for Sprachhilfe.</description>
+    <item>
+      <title>Sprachhilfe 1.6.4</title>
+      <pubDate>Thu, 02 Jul 2026 20:08:18 +0000</pubDate>
+      <sparkle:version>1.6.4</sparkle:version>
+      <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/tamaga3131400/sprachhilfe-dist/releases/download/v1.6.4/Sprachhilfe-1.6.4.dmg" sparkle:edSignature="70KFwtiV9u+AHAklC6UBL4y8RIuJeyTV9+Jjzi66hvAXyyItx+9BdD2hXmOz2v5nMhWKZkcgtyRAisr0waLeBQ==" length="54770239" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
