@@ -10,7 +10,7 @@
       <sparkle:version>1.6.5</sparkle:version>
       <sparkle:shortVersionString>1.6.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/tamaga3131400/sprachhilfe-dist/releases/download/v1.6.5/Sprachhilfe-1.6.5.dmg" sparkle:edSignature="u5wEfkaq5wHRUcCv3gng313f/RT8DwPv4B4kw+0Z137rKzn7Kyx8o87ri8zw1898BVMxzjw6KXTEVMd38wFiAg==" length="54711514" type="application/octet-stream" />
+      <enclosure url="https://github.com/tamaga3131400/sprachhilfe-dist/releases/download/1.6.5/Sprachhilfe-1.6.5.dmg" sparkle:edSignature="u5wEfkaq5wHRUcCv3gng313f/RT8DwPv4B4kw+0Z137rKzn7Kyx8o87ri8zw1898BVMxzjw6KXTEVMd38wFiAg==" length="54711514" type="application/octet-stream" />
     </item>
     <item>
       <title>Sprachhilfe 1.6.4</title>
