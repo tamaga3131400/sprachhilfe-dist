@@ -5,6 +5,14 @@
     <language>de</language>
     <description>Updates for Sprachhilfe.</description>
     <item>
+      <title>Sprachhilfe 1.6.6</title>
+      <pubDate>Fri, 10 Jul 2026 21:34:27 +0000</pubDate>
+      <sparkle:version>1.6.6</sparkle:version>
+      <sparkle:shortVersionString>1.6.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/tamaga3131400/sprachhilfe-dist/releases/download/v1.6.6/Sprachhilfe-1.6.6.dmg" sparkle:edSignature="7FRSJZGRRxyOcmPshj/hun0cWQklox8ZG4Ho7iVO5cnu/umV58cBVcPD9giV+dK4uFKqAQr3AEUs6ZqIpN6SDA==" length="55800528" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Sprachhilfe 1.6.5</title>
       <pubDate>Thu, 02 Jul 2026 22:38:36 +0000</pubDate>
       <sparkle:version>1.6.5</sparkle:version>
